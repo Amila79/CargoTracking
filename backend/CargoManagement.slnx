@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CargoManagement.Api/CargoManagement.Api.csproj" />
+    <Project Path="src/CargoManagement.Application/CargoManagement.Application.csproj" />
+    <Project Path="src/CargoManagement.Domain/CargoManagement.Domain.csproj" />
+    <Project Path="src/CargoManagement.Infrastructure/CargoManagement.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CargoManagement.IntegrationTests/CargoManagement.IntegrationTests.csproj" />
+    <Project Path="tests/CargoManagement.UnitTests/CargoManagement.UnitTests.csproj" />
+  </Folder>
+</Solution>
